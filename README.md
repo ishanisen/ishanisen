@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 Computer Engineering Student at Dalhousie University</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
