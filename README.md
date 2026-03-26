@@ -10,7 +10,7 @@
 
 <br>
 
-- 🔩 interested in embedded systems, robotics, and data analytics; specifically software that sits at the intersection of hardware and intelligence — i engineer for impact ♥
+- 🔩 interested in embedded systems, robotics, and data analytics; specifically software that sits at the intersection of hardware and intelligence. i engineer for impact ♥
 - 📊 currently working on a **personal finance dashboard**
 
 <br>
