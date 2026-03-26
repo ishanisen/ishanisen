@@ -4,15 +4,15 @@
 
 #  Ishani Sen 
 
-**computer engineering @ [Dalhousie University](https://dal.ca)** · she/her
+**computer engineering @ [Dalhousie University](https://dal.ca)** 
 
 </div>
 
 ---
 
-- 🔩 i like building things from the ground up — embedded systems, robotics, and the data that makes it all make sense
-- 📊 currently working on a **finance dashboard**
-- 🌱 always learning, always building
+-  interested in embedded systems, robotics, and data analytics; specifically software that sits at the intersection of hardware and intelligence — i engineer for impact ♥
+- 📊 currently working on a personalfinance dashboard
+
 
 ---
 
