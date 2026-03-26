@@ -2,7 +2,7 @@
 
 *hey there! i'm*
 
-# { Ishani Sen }
+#  Ishani Sen 
 
 **computer engineering @ [Dalhousie University](https://dal.ca)** · she/her
 
