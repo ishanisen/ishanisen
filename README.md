@@ -1,18 +1,29 @@
-<h1 align="left">Hey 👋, I'm Ishani Sen</h1>
+<div align="center">
 
-🎓 **Computer Engineering Student** @ Dalhousie University  
-💻 Passionate about software development, problem-solving, and building impactful tech solutions  
+*hey there! i'm*
+
+# { Ishani Sen }
+
+**computer engineering @ [Dalhousie University](https://dal.ca)** · she/her
+
+</div>
 
 ---
 
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 🔩 i like building things from the ground up — embedded systems, robotics, and the data that makes it all make sense
+- 📊 currently working on a **finance dashboard**
+- 🌱 always learning, always building
 
+---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishani-sen-aaa5b029b)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishanisen0610@gmail.com)
+### 🛠️ tech stack
 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
